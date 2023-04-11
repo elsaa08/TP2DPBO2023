@@ -29,6 +29,9 @@ contoh card dengan JPanel link
 ## demo
 🍎 Login 
 
+username : admin1004
+password : iloveyou
+
 form login utama
 
 <img width="252" alt="image" src="https://user-images.githubusercontent.com/101001227/231218703-3c4e73af-58f0-4083-a6e8-e6ba784fddc1.png">
