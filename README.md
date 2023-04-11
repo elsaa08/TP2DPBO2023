@@ -29,6 +29,19 @@ contoh card dengan JPanel link
 ## demo
 🍎 Login 
 
+form login utama
+
+<img width="252" alt="image" src="https://user-images.githubusercontent.com/101001227/231218703-3c4e73af-58f0-4083-a6e8-e6ba784fddc1.png">
+
+jika username dan password benar
+
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/101001227/231218883-6eff096f-4e4e-4710-9be5-a822cdf33832.png">
+
+jika username dan password salah 
+
+<img width="253" alt="image" src="https://user-images.githubusercontent.com/101001227/231219253-2464e9d7-3c2c-4652-af7d-b3ef2efe8fc9.png">
+
+
 🍎 Main Panel
 
 🍎 Card 1
