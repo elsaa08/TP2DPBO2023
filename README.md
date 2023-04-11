@@ -26,6 +26,11 @@ contoh card dengan JPanel link
 
 * Boleh login dan/atau register. Tidak perlu ada enkripsi password
 
+## Diagram 
+
+![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/101001227/231307412-037f0dc8-ed09-43fd-8081-dc6662d0c5f2.png)
+
+
 ## demo
 🍎 Login 
 
