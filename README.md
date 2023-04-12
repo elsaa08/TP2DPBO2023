@@ -53,6 +53,41 @@ jika username dan password salah
 
 🍎 Main Panel
 
-🍎 Card 1
+tampilan Main Panel List Producer
 
-🍎 Card 2
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/101001227/231380398-0dcaf31c-ab2a-46cc-9632-151287135862.png">
+
+tampilan Main Panel List Music
+
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/101001227/231380529-6046cb1a-d4bf-41f6-9bf2-f865506867cc.png">
+
+
+🍎 Input / Edit Form Producer
+
+input 
+
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/101001227/231381014-7e3c903d-262a-43ac-a3fc-0d345d757e3f.png">
+
+sukses
+
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/101001227/231381161-e6fd4e4a-7706-4504-a4b2-89ee55d08a7c.png">
+
+Hapus
+
+<img width="506" alt="image" src="https://user-images.githubusercontent.com/101001227/231382196-f6f3aad4-ab54-453b-9a5c-b10f972d1df3.png">
+
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/101001227/231382677-94c0f6e8-0106-43df-a7c6-8253101790ad.png">
+
+
+
+🍎 Input / Edit Form Music
+
+Input
+
+<img width="502" alt="image" src="https://user-images.githubusercontent.com/101001227/231381624-ce0e2c84-b0bc-4eb0-a4bd-30b677dc66ac.png">
+
+<img width="508" alt="image" src="https://user-images.githubusercontent.com/101001227/231381796-4f2789bc-e9b8-4e2c-ae7e-a2ab64b20ade.png">
+
+Hapus 
+
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/101001227/231382554-89fd1dc8-d2bc-4bb7-901a-688752db4007.png">
