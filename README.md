@@ -90,6 +90,11 @@ Hapus
 
 <img width="501" alt="image" src="https://user-images.githubusercontent.com/101001227/231382677-94c0f6e8-0106-43df-a7c6-8253101790ad.png">
 
+### NOTE 
+
+jika seorang producer sudah terhubung dengan atribut music (foreign) maka card producer yang bersangkutan tersebut tidak bisa dihapus!
+
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/101001227/231407016-da68ca6b-5d83-4101-bbb2-6e39f0c74561.png">
 
 
 🍎 Input / Edit Form Music
