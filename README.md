@@ -30,7 +30,13 @@ contoh card dengan JPanel link
 
 ![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/101001227/231307412-037f0dc8-ed09-43fd-8081-dc6662d0c5f2.png)
 
-
+penjelasan diagram 
+- class dbConnection yang didalamnya terdapat fungsi untuk koneksi database sehingga digunakan (composite) terhadap kelas-kelas lain yang membutuhkan untuk terhubung ke database
+- class Panel, class ini sebagai class Main (tampilan utama) setelah login, yang menarik kelas-kelas lain agar bisa diakses dan ditampilkan di class Panel ini yang terdiri dari Read, update, Create, Delete data producer dan Music.
+- class login, class ini berupa form awal yang berfungsi untuk login user 
+- class Music dan class Prod, class ini berisi getter setter method pada setiap atribut di masing-masing kelasnya
+- class CardProd dan class CardMusic, class ini berisi sebagai panel yang menampilkan inputan per atribut pada satu tabel database yang nantinya class ini akan ditarik di panel Main agar bisa ditampilkan dan diakses dan memiliki fitur update & delete
+- class formProd dan Class Formmusic, class ini berupa form inputan untuk setiap masing-masing table database, class ini akan langsung terhubung kedatabase untuk melakukan get set sesuai atributnya
 
 ## Database Designer 
 
